@@ -1,4 +1,4 @@
-# AI-CHATBOT-USING--OLLAMA
+# AI-CHATBOT-USING-DeepSeek-R1
 
 Running the Web Application
 To run the web application on Windows, Linux, or Mac, follow these steps:

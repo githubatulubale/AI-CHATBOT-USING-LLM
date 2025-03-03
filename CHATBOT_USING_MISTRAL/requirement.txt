@@ -1,0 +1,10 @@
+Build AI choatbot Locally Model Using Mistral LLM model
+
+===> 
+      1. download the ollama framework
+      2. Install the ollama framework
+      3. ollama --type this command on command line
+      4. ollama list
+      5. ollama pull Mistral
+      6. ollama run Mistral
+      

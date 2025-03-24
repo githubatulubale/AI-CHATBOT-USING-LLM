@@ -1,44 +1,50 @@
-<h1>AI Chatbot Using DeepSeek R1 & Mistral</h1>
+<h1>AI Chatbot Projects</h1>
 
-<h2>Overview</h2>
-<p>This project is a chatbot application built using DeepSeek R1 and Mistral models. It provides intelligent conversational responses based on user inputs.</p>
+<h2>1. AI Chatbot Using DeepSeek R1</h2>
 
-<h2>Running the Web Application</h2>
+<h3>Overview</h3>
+<p>This project is a chatbot application built using the DeepSeek R1 model. It is designed to provide intelligent and context-aware responses, making it suitable for various conversational AI applications.</p>
 
-<h3>Requirements</h3>
-<ul>
-  <li>Python 3</li>
-  <li>pip3</li>
-  <li>Streamlit</li>
-</ul>
-
-<h3>Installation and Setup</h3>
+<h3>Running the Web Application</h3>
 <ol>
-  <li>Clone this repository:</li>
+  <li>Clone the repository:</li>
   <pre><code>git clone https://github.com/your-username/AI-CHATBOT-USING-DeepSeek-R1.git</code></pre>
 
   <li>Navigate to the project folder:</li>
   <pre><code>cd AI-CHATBOT-USING-DeepSeek-R1</code></pre>
 
-  <li>Install required packages:</li>
+  <li>Install required dependencies:</li>
   <pre><code>pip3 install -r requirements.txt</code></pre>
 
-  <li>Run the web application:</li>
+  <li>Run the application:</li>
   <pre><code>streamlit run app.py</code></pre>
 
-  <li>Open a web browser and go to:</li>
+  <li>Access the chatbot at:</li>
   <pre><code>http://127.0.0.1:8000/</code></pre>
 </ol>
 
-<h2>About Mistral</h2>
-<p>Mistral is a powerful language model designed for efficiency and accuracy in generating human-like text. It is optimized for various NLP tasks, including chatbots, summarization, and translation.</p>
+<h2>2. AI Chatbot Using Mistral</h2>
 
-<h2>Features</h2>
-<ul>
-  <li>Supports both DeepSeek R1 and Mistral models</li>
-  <li>Fast and accurate responses</li>
-  <li>Easy deployment with Streamlit</li>
-</ul>
+<h3>Overview</h3>
+<p>This project is a chatbot application built using the Mistral language model. Mistral is known for its efficiency and accuracy in text generation, making it ideal for chatbots, summarization, and NLP tasks.</p>
+
+<h3>Running the Web Application</h3>
+<ol>
+  <li>Clone the repository:</li>
+  <pre><code>git clone https://github.com/your-username/AI-CHATBOT-USING-Mistral.git</code></pre>
+
+  <li>Navigate to the project folder:</li>
+  <pre><code>cd AI-CHATBOT-USING-Mistral</code></pre>
+
+  <li>Install required dependencies:</li>
+  <pre><code>pip3 install -r requirements.txt</code></pre>
+
+  <li>Run the application:</li>
+  <pre><code>streamlit run app.py</code></pre>
+
+  <li>Access the chatbot at:</li>
+  <pre><code>http://127.0.0.1:8000/</code></pre>
+</ol>
 
 <h2>License</h2>
-<p>This project is open-source and available under the MIT License.</p>
+<p>Both projects are open-source and available under the MIT License.</p>
